@@ -1,5 +1,5 @@
 {
-  "name": "europaphp/reflection",
+  "name": "europaphp/component-reflection",
   "description": "EuropaPHP reflection component.",
   "keywords": ["mvc", "view", "controller", "fast", "scalable", "simple", "module", "modular"],
   "license": "MIT",
